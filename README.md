@@ -18,7 +18,7 @@ This project monitors a specific folder for newly added files and automatically 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/python.git
+    git clone https://github.com/gisafred/python.git
     ```
 
 2. Install the required dependencies:
